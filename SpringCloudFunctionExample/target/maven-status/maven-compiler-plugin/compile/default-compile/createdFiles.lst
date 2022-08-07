@@ -1,0 +1,5 @@
+com\sawan\entity\Student.class
+com\sawan\MyConsumer.class
+com\sawan\repository\StudentRepository.class
+com\sawan\SpringCloudFunctionExampleApplication.class
+com\sawan\handler\StudentHandler.class

@@ -1,0 +1,10 @@
+cloud:
+  aws:
+    region:
+      static: us-east-1
+      auto: false
+    credentials:
+      access-key: AKIA3UWQGZREUN3IGKC2
+      secret-key: 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
+    end-point:
+      uri: https://sqs.us-east-1.amazonaws.com/800374312009/JavaSawanQueue

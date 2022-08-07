@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: com.sawan.KinesisProducerApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 3.917 s <<< FAILURE! - in com.sawan.KinesisProducerApplicationTests
+contextLoads  Time elapsed: 0.002 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: java.lang.IllegalStateException: Unable to load cache item
+Caused by: java.lang.ExceptionInInitializerError
+Caused by: java.lang.IllegalArgumentException: key can't be empty
+
